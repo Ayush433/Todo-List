@@ -85,30 +85,6 @@ h1
     width: 350px;
     font-size: 1.4rem;
 }
-.editbutton
-{
-    font-size: 1.4rem;
-    margin: 0 0.5rem;
-    font-family: 'Hind', sans-serif;
-    background: black;
-    outline: none;
-    color: lime;
-    border: none;
-    cursor: pointer;
-
-}
-.removebutton
-{
-    font-size: 1.4rem;
-    margin: 0 0.5rem;
-    font-family: 'Hind', sans-serif;
-    background: black;
-    outline: none;
-    color: #E00;
-    border: none;
-    cursor: pointer;
-
-}
 #addBtn{
     background: yellow;
 }
